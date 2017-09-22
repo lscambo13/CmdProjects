@@ -5,5 +5,5 @@ Windows Registry Editor Version 5.00
 "icon"="%SystemRoot%\\system32\\imageres.dll,8"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\lovely\command]
-@="explorer /root, C:\\Users\\Public\\file.vbs"
+@="explorer /root, C:\\Users\\Public\\Unhide-Action.vbs"
 
