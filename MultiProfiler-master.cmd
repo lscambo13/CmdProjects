@@ -43,7 +43,7 @@ goto :1
 attrib -h "C:\Users\Amritpal\Documents\lovely"
 if exist "C:\Users\Amritpal\Documents\lovely\lovely's.txt" ren "C:\Users\Amritpal\Documents\Criterion Games" "money" & ren "C:\Users\Amritpal\Documents\lovely" "Criterion Games"
 attrib +h "C:\Users\Amritpal\Documents\money"
-start NFS13.exe
+start application.exe
 
 cls
 echo+
